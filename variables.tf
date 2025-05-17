@@ -2,7 +2,7 @@ variable "prefix" {
   default = "tfvmex"
 }
 
-variable "resourse_group_name" {
+variable "resource_group_name" {
   default = "resources"
 }
 
